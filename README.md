@@ -6,7 +6,7 @@ It is built in python using googletrans api
 
 <h1>How To Use</h1>
 1)Enter the message you want to translate<br>
-2)Enter the language in which the message is written
+2)Enter the language in which the message is written<br>
 3)Enter the language in which you want to translate your message
 
 <h1>Requirements</h1>
